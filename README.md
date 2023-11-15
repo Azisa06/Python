@@ -1,2 +1,2 @@
 # Python
-Aprendendo python
+Listas de exercícios para estudo de python
