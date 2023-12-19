@@ -1,2 +1,2 @@
 # Python
-Listas de exercícios para estudo de python
+Olá, estas são as listas e provas relacionadas à programação em python que fiz na faculdade.
